@@ -1,0 +1,10 @@
+[package]
+name = "imap-copy"
+version = "0.1.0"
+authors = ["Cecile Tonglet <cecile.tonglet@gmail.com>"]
+
+[dependencies]
+imap = "0.10.0"
+native-tls = "0.2.2"
+md-5 = "0.8.0"
+regex = "1"
